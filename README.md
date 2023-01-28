@@ -13,4 +13,4 @@ Social:
 What I'm learning? Hmm.. I'm trying learn different technology
 
 - ![Mój ulubiony obrazek](https://user-images.githubusercontent.com/24892475/215278711-d854165c-16f0-4d3c-90ad-3baab0c2d93f.png)
-- ![Mój ulubiony obrazek](https://user-images.githubusercontent.com/24892475/215278755-dd0479fc-4d59-48db-8e4f-05e16751c393.png) and ![Mój ulubiony obrazek](https://user-images.githubusercontent.com/24892475/215278775-403253c5-9136-437c-83b9-99c99058a2a0.png)
+- ![Mój ulubiony obrazek](https://user-images.githubusercontent.com/24892475/215278755-dd0479fc-4d59-48db-8e4f-05e16751c393.png)    ![Mój ulubiony obrazek](https://user-images.githubusercontent.com/24892475/215278775-403253c5-9136-437c-83b9-99c99058a2a0.png)
