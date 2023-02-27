@@ -1,12 +1,14 @@
-## Hello There
+## Hello There 👋
 
-I'm Michael, a youngling of programing. <br>
+I'm Michael, a youngling of programing. 
+<br>
 Twenty tree tears old future developer from Poland.
 ---
-### About me:
+### About me: 
 - Self learning developer
 - Currently, learning Python and Django
 - I'm looking for a internship/entry level job
+- I'm looking to collaborate on any project
 ---
 ### Connct with Me on Solcial Media:
 ![https://www.linkedin.com/in/micha%C5%82-urban-404686232/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -37,3 +39,15 @@ Twenty tree tears old future developer from Poland.
 ### My GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=michalurban2&theme=radical)
 ---
+
+[//]: # (I have experience working on several programming projects, including [insert specific project names or types of projects].)
+
+[//]: # (My skills in [insert specific programming language or tool] are particularly strong, and I have also worked with [insert other languages or tools you have used].)
+
+[//]: # (I am passionate about [insert your specific interests in programming or development], and I hope to continue growing my expertise in these areas.)
+
+[//]: # (My career goals include [insert specific goals, such as working at a particular company or in a specific industry].)
+
+[//]: # (In addition to Python and Django, I have completed courses or certifications in [insert relevant courses or certifications].)
+
+[//]: # (When I'm not programming, I enjoy [insert your personal hobbies or interests that relate to programming, such as participating in hackathons or attending tech meetups].)
