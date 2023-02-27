@@ -13,6 +13,10 @@ Twenty tree tears old future developer from Poland.
 ### Connct with Me on Solcial Media:
 ![https://www.linkedin.com/in/micha%C5%82-urban-404686232/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.codewars.com/users/Micha%C5%82%20Urban](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=white)
+![pluralsight](https://img.shields.io/badge/Pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=white)
+![https://github.com/michalurban2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![stackoverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![https://twitter.com/michalurban2_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ---
 ### Technology stack:
 ![https://docs.python.org/3/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,9 +40,9 @@ Twenty tree tears old future developer from Poland.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalurban2&theme=radical)
 ---
 
-### My GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=michalurban2&theme=radical)
----
+[//]: # (### My GitHub Trophies:)
+
+[//]: # (![trophy]&#40;https://github-profile-trophy.vercel.app/?username=michalurban2&theme=radical&#41;)
 
 [//]: # (I have experience working on several programming projects, including [insert specific project names or types of projects].)
 
