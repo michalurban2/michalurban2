@@ -10,16 +10,16 @@ Twenty tree tears old future developer from Poland.
 - I'm looking for a internship/entry level job
 - I'm looking to collaborate on any project
 ---
-### Connct with Me on Solcial Media:
+### Connect with Me on Social Media:
 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-urban-404686232/)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Micha%C5%82%20Urban)
-[![Pluralsight](https://img.shields.io/badge/Pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=white)](https://www.codewars.com/users/Micha%C5%82%20Urban)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michal_urban2)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/twoje_id)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michalurban2_)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=white)](https://www.codewars.com/users/Micha%C5%82%20Urban)
 
 ---
 ### Technology stack:
@@ -30,9 +30,11 @@ Twenty tree tears old future developer from Poland.
 ![https://www.docker.com/](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![https://git-scm.com/](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![https://github.com/michalurban2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![terminal](https://img.shields.io/badge/terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-000000?style=for-the-badge&logo=slack&logoColor=white)
+
 ---
 ### My GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michalurban2&theme=radical)
@@ -43,19 +45,3 @@ Twenty tree tears old future developer from Poland.
 ### My Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalurban2&theme=radical)
 ---
-
-[//]: # (### My GitHub Trophies:)
-
-[//]: # (![trophy]&#40;https://github-profile-trophy.vercel.app/?username=michalurban2&theme=radical&#41;)
-
-[//]: # (I have experience working on several programming projects, including [insert specific project names or types of projects].)
-
-[//]: # (My skills in [insert specific programming language or tool] are particularly strong, and I have also worked with [insert other languages or tools you have used].)
-
-[//]: # (I am passionate about [insert your specific interests in programming or development], and I hope to continue growing my expertise in these areas.)
-
-[//]: # (My career goals include [insert specific goals, such as working at a particular company or in a specific industry].)
-
-[//]: # (In addition to Python and Django, I have completed courses or certifications in [insert relevant courses or certifications].)
-
-[//]: # (When I'm not programming, I enjoy [insert your personal hobbies or interests that relate to programming, such as participating in hackathons or attending tech meetups].)
