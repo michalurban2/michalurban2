@@ -8,7 +8,6 @@ Twenty tree tears old future developer from Poland.
 - Self learning developer
 - Currently, learning Python and Django
 - I'm looking for a internship/entry level job
-- I'm looking to collaborate on any project
 ---
 ### Connect with Me on Social Media:
 
