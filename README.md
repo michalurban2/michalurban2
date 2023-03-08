@@ -18,7 +18,8 @@ Twenty tree tears old future developer from Poland.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michal_urban2)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/twoje_id)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michalurban2_)
-[![Pluralsight](https://img.shields.io/badge/Pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=white)](https://www.codewars.com/users/Micha%C5%82%20Urban)
+
+[//]: # ([![Pluralsight]&#40;https://img.shields.io/badge/Pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=white&#41;]&#40;https://www.codewars.com/users/Micha%C5%82%20Urban&#41;)
 
 ---
 ### Technology stack:
@@ -27,6 +28,7 @@ Twenty tree tears old future developer from Poland.
 ![https://www.django-rest-framework.org/](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![https://www.postgresql.org/](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![https://www.docker.com/](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![https://www.nginx.com/](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![https://git-scm.com/](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![https://github.com/michalurban2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
