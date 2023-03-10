@@ -36,6 +36,7 @@ Twenty tree tears old future developer from Poland.
 ![terminal](https://img.shields.io/badge/terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-000000?style=for-the-badge&logo=slack&logoColor=white)
 
+
 ---
 ### My GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michalurban2&theme=radical)
