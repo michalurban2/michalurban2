@@ -7,7 +7,7 @@ Twenty tree tears old future developer from Poland.
 ### About me: 
 - Self learning developer
 - Currently, learning Python and Django
-- I'm looking for a internship/entry level job
+- Looking for internship/entry level job
 ---
 ![Codewars](https://github.r2v.ch/codewars?user=Micha%C5%82%20Urban&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
