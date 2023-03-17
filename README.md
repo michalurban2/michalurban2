@@ -20,8 +20,6 @@ Twenty tree tears old future developer from Poland.
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/twoje_id)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michalurban2_)
 
-[//]: # ([![Pluralsight]&#40;https://img.shields.io/badge/Pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=white&#41;]&#40;https://www.codewars.com/users/Micha%C5%82%20Urban&#41;)
-
 ---
 ### Technology stack:
 ![https://docs.python.org/3/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
