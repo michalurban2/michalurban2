@@ -2,7 +2,7 @@
 
 I'm Michael, a youngling of programing. 
 <br>
-Twenty tree years old future developer from Poland.
+Twenty three years old future developer from Poland.
 ---
 ### About me: 
 - Self learning developer
