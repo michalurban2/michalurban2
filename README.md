@@ -32,6 +32,7 @@ Twenty three years old future developer from Poland.
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![terminal](https://img.shields.io/badge/terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-000000?style=for-the-badge&logo=slack&logoColor=white)
+![vim](https://img.shields.io/badge/vim-000000?style=for-the-badge&logo=vim&logoColor=white)
 ---
 ### My GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michalurban2&theme=radical)
