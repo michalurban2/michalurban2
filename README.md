@@ -8,9 +8,7 @@ Twenty three years old future developer from Poland.
 - Self learning developer
 - Currently, learning Python and Django
 ---
-
 ![Codewars](https://github.r2v.ch/codewars?user=Micha%C5%82%20Urban&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
 ### Connect with Me on Social Media:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-urban-404686232/)
