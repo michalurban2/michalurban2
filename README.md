@@ -10,7 +10,6 @@ Twenty three years old future Python developer from Poland.
 ---
 ![Codewars](https://github.r2v.ch/codewars?user=Micha%C5%82%20Urban&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 ### Connect with Me on Social Media:
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-urban-404686232/)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Micha%C5%82%20Urban)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michal_urban2)
