@@ -2,7 +2,7 @@
 
 I'm Michael, a youngling of programing. 
 <br>
-Twenty three years old future Python developer from Poland.
+Twenty three years old, Python developer from Poland.
 ---
 ### About me: 
 - Self learning developer
