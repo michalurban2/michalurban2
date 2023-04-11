@@ -5,8 +5,9 @@ I'm Michael, a youngling of programing.
 Twenty three years old, Python developer from Poland.
 ---
 ### About me: 
-- Self learning developer
+- Self learning programming
 - Currently, learning Python and Django
+- 
 ---
 ![Codewars](https://github.r2v.ch/codewars?user=Micha%C5%82%20Urban&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 ### Connect with Me on Social Media:
