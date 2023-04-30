@@ -1,6 +1,6 @@
 ## Hello There 👋
 I'm Michael, a youngling of programing. 
-<br>
+
 Twenty three years old, Python developer from Poland.
 ---
 ### About me: 
